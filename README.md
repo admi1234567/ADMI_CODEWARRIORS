@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 | Dr. Alfred Watkins  | Emmanuel Nwokpo  |
 | Dr. Jasmine Trapier  | Teniola Oluwaseyitan  |
-| NILL  | Anthony Nwafor  |
+|   | Anthony Nwafor  |
 
 
 
@@ -13,7 +13,7 @@
 [CODEWARRIORS - ADMI](http://www.vartechservices.com/codewarriors)
 
 ## Future Work
-+ Create a chatbot.​
++ Create a chatbot: Using Chatgpt API.​
 + Member login​
 + Member registration.​
 + Member statue.
