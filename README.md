@@ -1,7 +1,7 @@
 # TEAM-CODEWARRIORS
 
 ## Team Members and Mentor(s) Names
-| Team Members  | Team Mentor |
+| Team Mentor  | Team Member |
 | ------------- | ------------- |
 | Dr. Alfred Watkins  | Emmanuel Nwokpo  |
 | Dr. Jasmine Trapier  | Teniola Oluwaseyitan  |
