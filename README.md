@@ -14,9 +14,9 @@
 
 ## Future Work
 + Create a chatbot: Using Chatgpt API.​
-+ Member login​
-+ Member registration.​
-+ Member statue.
++ Facilitate member registration.​
++ Facilitate Member login.
++ Member status.
   
 ## References and Tools
 + Figma.
